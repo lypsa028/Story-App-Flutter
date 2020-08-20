@@ -1,4 +1,4 @@
-# Story-App-Flutter
+# Story-App
 
 A Dynamic Story App made with Flutter.
 
